@@ -17,4 +17,4 @@ jobs:
           show_timezone: true
           show_commit: true
           show_days_of_week: true
-          show_update_day: true
+          show_update_date: true
